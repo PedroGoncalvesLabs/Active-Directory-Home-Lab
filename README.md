@@ -3,8 +3,8 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Using VirtualBox, I created this basic Lab environment that will have active directory and just a few networking services.
-I am mainly using this lab for my own practice as I want to completely grasp the understanding of configuring and running a virtual lab, to manage Active directory and practice windows Networking in general.
+I created this Lab environment that contained Active Directory and a few Networking Services.
+I mainly used this lab for my practice as I wanted to completely grasp the understanding of configuring and running a virtual lab, managing Active Directory and practising Windows Networking in general.
 <br />
 
 
